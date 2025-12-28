@@ -29,7 +29,7 @@ use windows::Win32::Foundation::{
     CloseHandle
 };
 use std::io;
-use std::io::Bytes;
+
 
 fn main() {
     println!("welcome to cheat engine CLI cuz i am too lazy to make a GUI");
